@@ -33,4 +33,4 @@ ticketPrice = ticketPrice.toFixed(2);
 const priceDomElement = document.getElementById('train-price');
 
 // Stampare il risultato utilizzando .innerHTML
-priceDomElement.innerHTML = ticketPrice;
+priceDomElement.innerHTML = ticketPrice + " €";
