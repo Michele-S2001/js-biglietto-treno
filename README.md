@@ -17,7 +17,7 @@
     - applicare lo sconto del 20%
   - ALTRIMENTI SE età è maggiore di 65:
     - applicare lo sconto del 40%
-  - ALTRIMENTI non apportare alcuno sconto
+  
 - Stampare sul document il risultato con un limite di 2 cifre decimali (per i centesimi)
   - Fare in modo di limitare le cifre decimali del prezzo finale a 2
   - Dichiarare una variabile che prenda l'elemento "price" dal DOM 
