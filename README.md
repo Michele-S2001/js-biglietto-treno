@@ -7,9 +7,9 @@
 
 ## Pseudo codice
 - Chiedere all'utente il numero totale di km che desidera percorrere
-  - Dichiarare una variabile assegnando un prompt per raccogliere l'informazione
+  - Dichiarare una variabile assegnando un prompt per raccogliere l'informazione facendo in modo che venga tramutato da stringa a numero
 - Chiedere all'utente l'età
-  - Dichiarare una variabile assegnando un prompt per raccogliere l'informazione
+  - Dichiarare una variabile assegnando un prompt per raccogliere l'informazione facendo in modo che venga tramutato da stringa a numero
 - Calcolare il prezzo del biglietto [ n-km * K(0.21) ]
   - Dichiarare una variabile che racchiuda il numero dei km da percorrere moltiplicati per la costante di 0.21 euro al km
 - Con l'utilizzo dell'età calcolare se va applicato dello sconto al biglietto
